@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PM2.5</string>
+    <string name="imageview_findviewbyid_r_id_pmimage">(ImageView) findViewById(R.id.pmimage)</string>
+    <string name="btn_conn">搜尋藍牙設備</string>
+    <string name="DangerText">DangerText</string>
+    <string name="txtShow">txtShow</string>
+</resources>
